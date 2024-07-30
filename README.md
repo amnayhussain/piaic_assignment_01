@@ -10,4 +10,4 @@ City = Faisalabad
 <br>
 Education = MSCS
 <br>
-Skills = HTML
+Skills = HTML, CSS
