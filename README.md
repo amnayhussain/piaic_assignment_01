@@ -8,3 +8,5 @@ Piaic Roll No = PIAIC244710
 <br>
 City = Faisalabad
 <br>
+Education = MSCS
+<br>
